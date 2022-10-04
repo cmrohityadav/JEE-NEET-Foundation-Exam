@@ -1,6 +1,6 @@
 const quizData = [{
         question: "Which of the following is the good conductor of electricity?",
-        a: "Papera",
+        a: "Paper",
         b: "Iron",
         c: "Glass",
         d: "Ebonite",
